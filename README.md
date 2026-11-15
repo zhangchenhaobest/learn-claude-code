@@ -1,3 +1,29 @@
+# learn-claude-code
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 Bash 从零构建 nano 版 Claude Code 式 Agent Harness 的教程。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)
 
 <a href="https://trendshift.io/repositories/19746" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19746" alt="shareAI-lab%2Flearn-claude-code | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
